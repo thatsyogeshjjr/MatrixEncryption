@@ -1,3 +1,4 @@
+# MatrixEncryption
 _learning importance of matrices with a practical approach_
 
 Matrices are a wonderful concept that can be a great tool in your skillset, some ways you can use these are:
